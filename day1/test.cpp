@@ -1,2 +1,2 @@
 hi  i am  c++ i changed feature
-main se push hhhhhhhrpkrlkrlfwnlkemflknrfl
+main se push hhhhhhhrpkrlkrl
